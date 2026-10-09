@@ -1,4 +1,14 @@
 {
   "schemaVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "ruxi-imagegen",
+      "name": "入戏生图",
+      "description": "配置生图接口，读取当前对话上下文生成图片并插入对话正文。支持 OpenAI images 标准接口与任意返回图片 URL 的自定义接口。",
+      "author": "RPHUB",
+      "repo": "https://github.com/Shawlei/ruxi-imagegen",
+      "compat": "ok",
+      "tags": ["生图", "图片", "AI绘图", "插图"]
+    }
+  ]
 }
