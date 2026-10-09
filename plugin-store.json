@@ -5,19 +5,19 @@
       "id": "ruxi-imagegen",
       "name": "入戏生图",
       "description": "配置生图接口，读取当前对话上下文生成图片并插入对话正文。支持 OpenAI images 标准接口与任意返回图片 URL 的自定义接口。",
-      "author": "RPHUB",
+      "author": "Ruxi",
       "repo": "https://github.com/Shawlei/ruxi-imagegen",
       "compat": "ok",
       "tags": ["生图", "图片", "AI绘图", "插图"]
     },
     {
       "id": "ruxi-floating-panel",
-      "name": "悬浮窗面板",
-      "description": "启用后把入戏扩展面板切换为可拖动悬浮窗形态，并提供悬浮窗/默认面板的切换入口。",
-      "author": "RPHUB",
+      "name": "悬浮球面板",
+      "description": "启用后在屏幕边缘显示一个辅助触控式小白点，点击弹出扩展面板；拖动白点可贴靠左右边缘。",
+      "author": "Ruxi",
       "repo": "https://github.com/Shawlei/ruxi-floating-panel",
       "compat": "ok",
-      "tags": ["悬浮窗", "面板", "布局", "UI"]
+      "tags": ["悬浮球", "小白点", "面板", "辅助触控"]
     }
   ]
 }
