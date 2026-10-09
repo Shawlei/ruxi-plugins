@@ -7,6 +7,7 @@
       "description": "配置生图接口，读取当前对话上下文生成图片并插入对话正文。支持 OpenAI images 标准接口与任意返回图片 URL 的自定义接口。",
       "author": "Ruxi",
       "repo": "https://github.com/Shawlei/ruxi-imagegen",
+      "version": "1.1.0",
       "compat": "ok",
       "tags": ["生图", "图片", "AI绘图", "插图"]
     },
@@ -16,6 +17,7 @@
       "description": "启用后在屏幕边缘显示一个辅助触控式小白点，点击弹出扩展面板；拖动白点可贴靠左右边缘。",
       "author": "Ruxi",
       "repo": "https://github.com/Shawlei/ruxi-floating-panel",
+      "version": "1.0.0",
       "compat": "ok",
       "tags": ["悬浮球", "小白点", "面板", "辅助触控"]
     }
